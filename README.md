@@ -5,7 +5,7 @@
 <h3>Little Bit About Me ℹ️</h3>
 <ul>
   <li>Computer Engineering @ UC San Diego 🏫</li>
-  Embedded Software Engineer @ Triton Robotics 🤖
+  <li>Embedded Software Engineer @ Triton Robotics 🤖</li>li>
   <li>Former Full-Stack Software Engineer Intern @ Mortaria 💻</li>
   <li>Former Collegiate and Semi-Pro Soccer Athlete ⚽</li>
 </ul>
