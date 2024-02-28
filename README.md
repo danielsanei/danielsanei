@@ -38,13 +38,11 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <!-- ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) -->
 
-<!--
 <h3>My Github Stats 📊</h3>
 <div align="center">
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsanei&count_private=true&show_icons=true&theme=tokyonight)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsanei&show_icons=true&layout=compact&langs_count=10&theme=tokyonight)
 </div>
--->
   
 <!--
 **danielsanei/danielsanei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
