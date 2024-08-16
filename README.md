@@ -4,6 +4,7 @@
 
 <h3>Little Bit About Me ℹ️</h3>
 <ul>
+  <li>FPGA Software Engineer Intern @ Lattice Semiconductor 📟</li>
   <li>Computer Engineering @ UC San Diego 🏫</li>
   <li>Embedded Software Engineer @ Triton Robotics 🤖</li>
   <li>Former Full-Stack Software Engineer Intern @ Mortaria 💻</li>
