@@ -6,8 +6,8 @@
 <ul>
   <li>Computer Engineering @ UC San Diego 🏫</li>
   <li>Embedded Software Engineer @ Triton Droids 🤖</li>
-  <li>Embedded Software Engineer @ Triton Robotics 🦿</li>
-  <li>Former Software Engineer Intern @ Lattice Semiconductor 📟</li>
+  <!--<li>Embedded Software Engineer @ Triton Robotics 🦿</li>-->
+  <li>Former FPGA Software Engineer Intern @ Lattice Semiconductor 📟</li>
   <li>Former Full-Stack Software Engineer Intern @ Mortaria 💻</li>
   <li>Former Collegiate and Current Semi-Pro Soccer Athlete ⚽</li>
 </ul>
