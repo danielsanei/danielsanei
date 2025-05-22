@@ -5,7 +5,7 @@
 <h3>Little Bit About Me ℹ️</h3>
 <ul>
   <li>Computer Engineering @ UC San Diego 🏫</li>
-  <li>Embedded Software Engineer @ Triton Droids 🤖</li>
+  <li>Lead Software Engineer @ Triton Droids 🤖</li>
   <!--<li>Embedded Software Engineer @ Triton Robotics 🦿</li>-->
   <li>Former FPGA Software Engineer Intern @ Lattice Semiconductor 📟</li>
   <li>Former Full-Stack Software Engineer Intern @ Mortaria 💻</li>
