@@ -4,11 +4,11 @@
 
 <h3>Little Bit About Me ℹ️</h3>
 <ul>
-  <li>Software Engineering Intern @ CommScope 🌐</li>
-  <li>Computer Engineering @ UC San Diego 🏫</li>
   <li>Lead Software Engineer @ Triton Droids 🤖</li>
+  <li>M.S. Computer Engineering @ UC San Diego 🏫</li>
   <!--<li>Embedded Software Engineer @ Triton Robotics 🦿</li>-->
-  <li>Former FPGA Software Engineering Intern @ Lattice Semiconductor 📟</li>
+  <li>Former Software Engineering Intern @ CommScope 🌐</li>
+  <li>Former Software Engineering Intern @ Lattice Semiconductor 📟</li>
   <li>Former Full-Stack Software Engineering Intern @ Mortaria 💻</li>
   <li>Former Collegiate and Current Semi-Pro Soccer Athlete ⚽</li>
 </ul>
