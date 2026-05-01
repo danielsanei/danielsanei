@@ -16,10 +16,19 @@
 <h3>Tools and Technologies 🛠</h3>
 
 <!-- Languages -->
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23FF6B35.svg?style=for-the-badge&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/matlab-%23007ACC.svg?style=for-the-badge&logo=matlab&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<!-- Hardware & EDA -->
+![Design Compiler](https://img.shields.io/badge/Synopsys_DC-%23E60012.svg?style=for-the-badge&logoColor=white)
+![Xcelium](https://img.shields.io/badge/Cadence_Xcelium-%23006CB7.svg?style=for-the-badge&logoColor=white)
+![Innovus](https://img.shields.io/badge/Cadence_Innovus-%23006CB7.svg?style=for-the-badge&logoColor=white)
+![Quartus Prime](https://img.shields.io/badge/Quartus_Prime-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-%236A0DAD.svg?style=for-the-badge&logoColor=white)
+![Tcl](https://img.shields.io/badge/Tcl-%23E4CC98.svg?style=for-the-badge&logoColor=black)
 
 <!-- Systems & Tooling -->
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
